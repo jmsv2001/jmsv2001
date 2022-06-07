@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mariano (@jmsv2001)
 - 👀 I’m interested in javascript, C, C++
 - 🌱 I’m currently learning Node Express
-- 💞️ I’m looking to collaborate on Node Express
+- 💞️ I’m looking to collaborate on Node Express, C, C++
 - 📫 How to reach me profer.msanvicente@gmail.com
 
 <!---
